@@ -54,7 +54,9 @@ Adicione uma captura de tela do projeto.
 Exemplo:
 
 ```md
-![Prévia do Projeto](img/preview.png)
+
+<img width="1920" height="1080" alt="{64FCF983-80F8-453D-8CAC-FF3743CF5263}" src="https://github.com/user-attachments/assets/1c37c1c6-299c-4699-bff6-b72c0633d8a2" />
+
 ```
 
 ## Objetivo
