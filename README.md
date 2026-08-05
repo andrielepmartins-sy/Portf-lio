@@ -47,18 +47,6 @@ git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
 
 3. Execute o arquivo `index.html` em seu navegador.
 
-## Prévia
-
-Adicione uma captura de tela do projeto.
-
-Exemplo:
-
-```md
-
-<img width="1920" height="1080" alt="{64FCF983-80F8-453D-8CAC-FF3743CF5263}" src="https://github.com/user-attachments/assets/1c37c1c6-299c-4699-bff6-b72c0633d8a2" />
-
-```
-
 ## Objetivo
 
 Este portfólio será atualizado continuamente com novos projetos, melhorias e tecnologias estudadas ao longo da minha formação.
